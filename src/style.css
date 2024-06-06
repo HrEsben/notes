@@ -1,4 +1,18 @@
 body {
   margin: 0;
   padding: 0;
+  background-color: rgb(202, 243, 189);
+}
+
+.note-container {
+  margin: 0 2em;
+  border: 2px solid rgb(216, 216, 216);
+  padding: 1em;
+  width: 90%;
+}
+
+.note-single {
+  background: blanchedalmond;
+  padding: 1em;
+  margin-bottom: 0.2em;
 }
